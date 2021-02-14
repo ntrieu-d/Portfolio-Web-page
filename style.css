@@ -17,11 +17,12 @@ h1{
 
 h2{
   font-size: 30px;
-  color: darkslategray;
+  color: cornsilk;
 }
 
 h3{
-  color: cornsilk;
+  font-size: 30px;
+  color: saddlebrown;
   line-height: 30px
 }
 
@@ -31,14 +32,14 @@ h4{
 /*Styling texts*/
 p, li{
   font-family: Arial, Helvetica, sans-serif;
-  color: darkslategray;
+  color: saddlebrown;
   letter-spacing: 0.75px;
   line-height: 30px
 }
 /*Styling body*/
 body{
   margin: 0;
-  background-color:darkslategray;
+  background-color: saddlebrown;
 }
 /*Styling header*/
 header{
@@ -59,7 +60,7 @@ hr{
   margin-top: 75px;
   margin-bottom: 75px;
   width: 650px;
-  color: black
+  color: saddlebrown
 }
 /*Styling images with curvy corners and place in center*/
 img{
@@ -71,7 +72,7 @@ img{
 /*Styling links*/
 img, a{
   text-decoration: none;
-  color: darkturquoise
+  color: blue
 }
 
 img:hover,a:hover{
@@ -79,5 +80,5 @@ img:hover,a:hover{
 }
 
 img:active,a:active{
-  color: darkslategray 
+  color: saddlebrown 
 }
